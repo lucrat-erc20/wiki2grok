@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Wikipedia to Grokipedia",
+  "name": "Wiki2Grok",
   "version": "1.0.0",
-  "description": "Automatically redirects Wikipedia pages to their Grokipedia equivalents",
+  "description": "Automatically redirects Wikipedia pages to Grokipedia. For people who never want to see Wikipedia again.",
   "permissions": [
     "storage",
     "tabs"
