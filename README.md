@@ -15,18 +15,18 @@ Automatically redirects Wikipedia pages to their Grokipedia equivalents. **For p
 ## Installation
 
 ### From Chrome Web Store (Recommended)
-1. Visit the [Chrome Web Store page](#) (link coming soon)
-2. Click "Add to Chrome"
-3. Click "Add extension" to confirm
+Coming soon! The extension is currently under review.
 
-### Manual Installation (Developer Mode)
-1. Download the latest release ZIP file
+### Manual Installation (Available Now)
+1. **[⬇️ Download wiki2grok-v1.0.0.zip](https://github.com/lucrat-erc20/wiki2grok/releases/download/v1.0.0/wiki2grok-v1.0.0.zip)**
 2. Extract the ZIP to a folder on your computer
 3. Open Chrome and go to `chrome://extensions/`
 4. Enable "Developer mode" (toggle in top-right corner)
 5. Click "Load unpacked"
 6. Select the extracted folder
 7. The extension is now installed!
+
+For detailed instructions, see [INSTALLATION.md](INSTALLATION.md)
 
 ## Usage
 
