@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "description": "Automatically redirects Wikipedia pages to Grokipedia. For people who never want to see Wikipedia again.",
   "permissions": [
-    "storage",
-    "tabs"
+    "storage"
   ],
   "host_permissions": [
     "*://*.wikipedia.org/*"

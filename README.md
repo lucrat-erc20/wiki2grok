@@ -18,7 +18,7 @@ Automatically redirects Wikipedia pages to their Grokipedia equivalents. **For p
 Coming soon! The extension is currently under review.
 
 ### Manual Installation (Available Now)
-1. **[⬇️ Download wiki2grok-v1.0.0.zip](https://github.com/lucrat-erc20/wiki2grok/releases/download/v1.0.0/wiki2grok-v1.0.0.zip)**
+1. **[⬇️ Download wiki2grok-v1.0.1.zip](https://github.com/lucrat-erc20/wiki2grok/releases/download/v1.0.1/wiki2grok-v1.0.1.zip)**
 2. Extract the ZIP to a folder on your computer
 3. Open Chrome and go to `chrome://extensions/`
 4. Enable "Developer mode" (toggle in top-right corner)
@@ -115,7 +115,7 @@ See [LICENSE](LICENSE) file for full license text.
 
 ## Changelog
 
-### Version 1.0.0 (Initial Release)
+### Version 1.0.1 (Tabs fix)
 - Automatic popup on Wikipedia pages
 - Manual redirect option
 - Auto-redirect setting

@@ -10,7 +10,7 @@
 
 Download the latest release ZIP from GitHub:
 
-**[⬇️ Download wiki2grok-v1.0.0.zip](https://github.com/lucrat-erc20/wiki2grok/releases/download/v1.0.0/wiki2grok-v1.0.0.zip)**
+**[⬇️ Download wiki2grok-v1.0.1.zip](https://github.com/lucrat-erc20/wiki2grok/releases/download/v1.0.1/wiki2grok-v1.0.1.zip)**
 
 Or visit the [Releases page](https://github.com/lucrat-erc20/wiki2grok/releases) to see all versions.
 
